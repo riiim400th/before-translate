@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "BeforeTranslate",
+  "description": "翻訳前にコードタグを整形します。",
+  "version": "1.0.0",
+  "permissions": [
+    "contextMenus",
+    "scripting",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "content_scripts": []
+}
