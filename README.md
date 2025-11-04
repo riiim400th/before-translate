@@ -13,7 +13,7 @@
 
 <img width="754" height="264" alt="normal_trans" src="https://github.com/user-attachments/assets/43197248-bd70-4e1e-a3bd-e963b0e6cac3" />
 
-BeforeTransrate使用
+BeforeTranslate使用
 
 <img width="754" height="289" alt="ex_n_trans" src="https://github.com/user-attachments/assets/65c6ed1a-5ee7-420a-9475-cd5547a9cb31" />
 
