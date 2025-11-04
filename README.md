@@ -15,7 +15,7 @@
 
 BeforeTranslate使用
 
-<img width="754" height="289" alt="ex_n_trans" src="https://github.com/user-attachments/assets/65c6ed1a-5ee7-420a-9475-cd5547a9cb31" />
+<img width="754" height="256" alt="スクリーンショット 2025-11-05 0 42 10" src="https://github.com/user-attachments/assets/cb52ae18-e430-41a7-952e-4aaf2eb1de80" />
 
 
 ## インストール
@@ -35,4 +35,5 @@ git clone https://github.com/riiim400th/before-translate.git
 
 2. コンテキストメニュー(右クリック)から「日本語に翻訳する」を選択
 
-![demo](https://github.com/user-attachments/assets/1d5ccf15-6d97-43cc-bd65-cef51894c735)
+![context-menu](https://github.com/user-attachments/assets/418c566a-1746-48b4-9fb9-09f6ae72c70b)
+
