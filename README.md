@@ -1,4 +1,4 @@
-# BeforeTransrate
+# BeforeTranslate
 
 ## 説明
 ページ翻訳前にこの拡張機能を実行することで、翻訳の邪魔になるcodeタグが除かれ、自然な翻訳になります
